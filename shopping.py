@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """ Author: Mathew McDade
     Date: 1/27/2019
-    Class: CS325.400 Winter 2019
-    Assignment: HW3: Shopping Spree
     Description: A Dynamic Programming implementation of a complex 0-1 knapsack problem. The
     program reads input from a file, shopping.txt, and prints the results including Total Price
     and Item selection to an output file, results.txt. The program achieves efficiency by
